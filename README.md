@@ -177,7 +177,7 @@ This repository is intended to be a supplementary resource for the "Data-Driven 
 Contributions to this repository are welcome. If you have suggestions for additional resources or improvements, please feel free to open an issue or submit a pull request.
 
 ## License
-[Add a suitable License here based on whether the content is open or not] 
+Apache License 2.0
 
 ## Contact
 
