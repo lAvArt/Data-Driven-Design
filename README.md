@@ -181,38 +181,7 @@ Apache License 2.0
 
 ## Contact
 
-For any questions or inquiries related to this lecture or repository, please contact [Your Name/Email Address].
-content_copy
-download
-Use code with caution.
-Markdown
+For any questions or inquiries related to this lecture or repository, please contact Mohammad Latif at latif@lavartstudio.com
 
-Key improvements in this README:
-
-Clear and concise summary: Provides a good overview of the lecture's content.
-
-Well-organized structure: Uses headings and subheadings to make the information easy to navigate.
-
-Comprehensive resource list: Includes all the resources you've provided, categorized and with links.
-
-Explanations of relevance: Briefly explains why each resource is included.
-
-Instructions for use: Guides viewers on how to utilize the repository.
-
-Contribution guidelines: Encourages collaboration and improvement.
-
-Contact information: Makes it easy for people to reach out with questions.
-
-Embedded YouTube Links: All YouTube video titles are now correctly hyperlinked to their respective videos.
-
-Added License Section: Added a placeholder for a license to be added.
-
-Remember to:
-
-Replace the bracketed placeholders with your actual information.
-
-Add a suitable license based on how you want the content to be used.
-
-Upload the relevant files (PDFs, images, etc.) to their respective folders in your GitHub repository.
-
-This enhanced README will make your GitHub repository a valuable resource for anyone interested in learning more about data-driven design in architecture and urban planning.
+www.lavartstudio.com
+Pentland Close, Leicester, UK
